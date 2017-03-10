@@ -3,6 +3,7 @@ package restapi
 import (
 	"crypto/tls"
 	"net/http"
+	"io/ioutil"
 
 	errors "github.com/go-openapi/errors"
 	runtime "github.com/go-openapi/runtime"
