@@ -44,7 +44,7 @@ tags:
     externalDocs:
       description: |
         An extensive explanation on what is possible can be found in the
-        support site for this application.
+        support site for this application. A sample edit here edwin!
       url: https://go-swagger.github.io/examples/tasklist/help/tasks.html
 
   - name: milestones
